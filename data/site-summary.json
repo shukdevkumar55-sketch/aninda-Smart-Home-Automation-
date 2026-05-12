@@ -1,0 +1,91 @@
+{
+  "site_name": "Smart Home Automation",
+  "site_short_name": "Smart Home",
+  "tagline": "Smart home automation and security product discovery",
+  "description": "Premium smart home discovery website driven by one Google Sheet, generated JSON, advanced search, filters, brand browsing, and SEO-friendly product pages.",
+  "design_by": "Sukhdev Dahiya",
+  "content_model": {
+    "source_of_truth": "single_google_sheet",
+    "item_pages": true,
+    "brand_pages": true,
+    "category_pages": true,
+    "label_pages": true,
+    "comparison_page": true,
+    "guide_pages": true
+  },
+  "data_rules": {
+    "primary_item_tab": "Items",
+    "brand_config_file": "data/brands.json",
+    "label_config_file": "data/labels.json",
+    "banner_config_file": "data/banners.json",
+    "seo_in_html_column": true,
+    "single_affiliate_url_column": true,
+    "multiple_images_via_json": true
+  },
+  "browser_experience": {
+    "hero_autoplay_ms": 5000,
+    "hero_manual_pause_ms": 10000,
+    "initial_cards": 12,
+    "load_more_cards": 12,
+    "compare_limit": 4,
+    "search_across_all_fields": true,
+    "fuzzy_search_enabled": true
+  },
+  "seo_strategy": {
+    "meta_title_supported": true,
+    "meta_description_supported": true,
+    "open_graph_supported": true,
+    "twitter_cards_supported": true,
+    "product_schema_supported": true,
+    "breadcrumb_schema_supported": true,
+    "faq_schema_supported": true,
+    "discover_friendly_content": true
+  },
+  "taxonomy": {
+    "label_source_fields": [
+      "item_type",
+      "category",
+      "subcategory"
+    ],
+    "brand_source_field": "brand_name",
+    "filter_fields": [
+      "brand",
+      "item_type",
+      "category",
+      "subcategory",
+      "price_band",
+      "affiliate_platform",
+      "compatibility",
+      "use_case"
+    ]
+  },
+  "build": {
+    "output_dir": "public",
+    "generated_files": [
+      "items.json",
+      "item-map.json",
+      "brands.json",
+      "brand-map.json",
+      "labels.json",
+      "categories.json",
+      "item-types.json",
+      "subcategories.json",
+      "banners.json",
+      "search-index.json",
+      "site-summary.json"
+    ]
+  },
+  "theme": {
+    "style": "premium_glass",
+    "mode": "dark",
+    "layout": "editorial_catalog",
+    "card_style": "premium_product_card",
+    "brand_strip": "horizontal_scroll",
+    "grid_style": "load_more"
+  },
+  "status": {
+    "version": "1.0.0",
+    "generated_at": "",
+    "notes": "This file acts as a human-readable site manifest and can be updated when the strategy changes."
+  }
+}
