@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0b0f17" />
+  <meta name="color-scheme" content="dark light" />
+  <meta name="robots" content="index,follow" />
+
+  <title>Compare Smart Home Products</title>
+  <meta name="description" content="Compare smart home automation and security products side by side with a premium, easy-to-browse comparison experience." />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Compare Smart Home Products" />
+  <meta property="og:description" content="Compare smart home automation and security products side by side with a premium, easy-to-browse comparison experience." />
+  <meta property="og:image" content="assets/images/og-cover.jpg" />
+  <meta property="og:url" content="./compare.html" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Compare Smart Home Products" />
+  <meta name="twitter:description" content="Compare smart home automation and security products side by side with a premium, easy-to-browse comparison experience." />
+  <meta name="twitter:image" content="assets/images/og-cover.jpg" />
+
+  <link rel="icon" href="assets/images/favicon.png" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <a class="skip-link" href="#mainContent">Skip to content</a>
+
+  <div class="site-shell">
+    <header class="site-header" id="siteHeader">
+      <div class="header-left">
+        <button class="icon-button" id="menuButton" aria-label="Open navigation menu" aria-controls="mobileMenu" aria-expanded="false">
+          <span class="icon-lines" aria-hidden="true"></span>
+        </button>
+
+        <a class="brand-mark" href="./" aria-label="Smart Home Automation home">
+          <span class="brand-mark__logo" aria-hidden="true">S</span>
+          <span class="brand-mark__text">
+            <strong>Smart Home</strong>
+            <small>Automation & Security</small>
+          </span>
+        </a>
+      </div>
+
+      <div class="header-center">
+        <a class="compare-pill" href="compare.html" aria-label="Open compare page">
+          <span>Compare</span>
+          <strong id="compareCount">0</strong>
+        </a>
+      </div>
+
+      <div class="header-right">
+        <button class="icon-button" id="searchFocusButton" aria-label="Focus search">
+          <span class="icon-search" aria-hidden="true"></span>
+        </button>
+
+        <button class="icon-button" id="themeButton" aria-label="Toggle theme">
+          <span class="icon-theme" aria-hidden="true"></span>
+        </button>
+      </div>
+    </header>
+
+    <nav class="mobile-menu" id="mobileMenu" aria-label="Quick access" hidden>
+      <div class="mobile-menu__panel">
+        <a href="./" class="mobile-menu__item">Home</a>
+        <a href="category.html" class="mobile-menu__item">Browse products</a>
+        <a href="compare.html" class="mobile-menu__item">Compare</a>
+        <a href="about.html" class="mobile-menu__item">About us</a>
+        <a href="contact.html" class="mobile-menu__item">Contact us</a>
+        <a href="privacy.html" class="mobile-menu__item">Privacy policy</a>
+      </div>
+    </nav>
+
+    <main id="mainContent" class="main-content">
+      <section class="search-section" aria-label="Compare smart home products">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">Compare mode</span>
+            <h1>Compare selected smart home products</h1>
+          </div>
+          <p class="results-meta">Keep items in your compare list and review them side by side.</p>
+        </div>
+
+        <div class="results-note" id="resultsNote">
+          Add up to 4 items from product cards to compare them here.
+        </div>
+      </section>
+
+      <section class="brand-section" aria-label="Selected comparison items">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">Selected</span>
+            <h2 id="resultsTitle">Compare list</h2>
+          </div>
+          <div class="results-meta">
+            <span id="resultsCount">0 items</span>
+          </div>
+        </div>
+
+        <div class="cards-grid" id="productsGrid" aria-live="polite"></div>
+
+        <div class="load-more-wrap">
+          <button class="primary-button" id="loadMoreButton" type="button" hidden>Load more</button>
+        </div>
+      </section>
+
+      <section class="guide-section" aria-label="Buying guides">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">Guides</span>
+            <h2>Helpful buying guides</h2>
+          </div>
+          <a href="category.html" class="text-link">Browse all items</a>
+        </div>
+
+        <div class="guide-grid" id="guideGrid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-grid">
+        <div>
+          <h2>Smart Home Automation</h2>
+          <p>Product discovery and buying guidance for smart home automation and security items.</p>
+        </div>
+
+        <div>
+          <h3>Pages</h3>
+          <a href="about.html">About us</a>
+          <a href="contact.html">Contact us</a>
+          <a href="career.html">Career</a>
+        </div>
+
+        <div>
+          <h3>Legal</h3>
+          <a href="privacy.html">Privacy policy</a>
+          <a href="terms.html">Terms</a>
+          <a href="disclaimer.html">Disclaimer</a>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>All rights reserved.</p>
+        <p>Design by Sukhdev Dahiya.</p>
+      </div>
+    </footer>
+  </div>
+
+  <div class="drawer-backdrop" id="compareDrawerBackdrop" hidden></div>
+  <aside class="compare-drawer" id="compareDrawer" hidden aria-label="Compare drawer">
+    <div class="compare-drawer__head">
+      <h2>Compare list</h2>
+      <button class="icon-button" id="closeCompareDrawer" aria-label="Close compare drawer">×</button>
+    </div>
+    <div class="compare-drawer__body" id="compareDrawerItems"></div>
+    <div class="compare-drawer__actions">
+      <a class="primary-button" href="compare.html">Open compare page</a>
+    </div>
+  </aside>
+
+  <template id="productCardTemplate">
+    <article class="product-card">
+      <a class="product-card__image-link" href="product.html?slug=">
+        <img class="product-card__image" alt="" loading="lazy" />
+      </a>
+      <div class="product-card__body">
+        <div class="product-card__topline">
+          <span class="badge badge--label"></span>
+          <span class="score-pill"></span>
+        </div>
+        <h3 class="product-card__title"></h3>
+        <p class="product-card__summary"></p>
+        <div class="product-card__meta"></div>
+        <div class="product-card__actions">
+          <a class="secondary-button product-card__detail-link" href="product.html?slug=">View details</a>
+          <a class="primary-button product-card__buy-link" href="#" target="_blank" rel="noopener">Buy now</a>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <template id="guideCardTemplate">
+    <article class="guide-card">
+      <h3></h3>
+      <p></p>
+      <a class="text-link" href="#">Read more</a>
+    </article>
+  </template>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>
