@@ -1,0 +1,222 @@
+{
+  "smart-locks": {
+    "category_name": "Smart Locks",
+    "category_slug": "smart-locks",
+    "group": "Security",
+    "sort_order": 1,
+    "page_title": "Smart Locks",
+    "page_description": "Browse smart locks with secure access methods, automation support, and compatibility details.",
+    "browse_hint": "Great for front doors, apartments, and secure entry use cases.",
+    "related_labels": ["smart-lock", "lock", "access-control", "entry-device"],
+    "icon_url": "assets/icons/smart-locks.svg"
+  },
+  "security-cameras": {
+    "category_name": "Security Cameras",
+    "category_slug": "security-cameras",
+    "group": "Security",
+    "sort_order": 2,
+    "page_title": "Security Cameras",
+    "page_description": "Browse indoor and outdoor security cameras with video quality, alerts, and smart detection features.",
+    "browse_hint": "Useful for home monitoring, pets, package alerts, and perimeter security.",
+    "related_labels": ["security-camera", "camera", "indoor-security", "outdoor-security"],
+    "icon_url": "assets/icons/security-cameras.svg"
+  },
+  "video-doorbells": {
+    "category_name": "Video Doorbells",
+    "category_slug": "video-doorbells",
+    "group": "Security",
+    "sort_order": 3,
+    "page_title": "Video Doorbells",
+    "page_description": "Browse smart video doorbells for visitor alerts, entry monitoring, and package awareness.",
+    "browse_hint": "Useful for front-door visibility and remote visitor handling.",
+    "related_labels": ["video-doorbell", "doorbell", "entry-device", "security-equipment"],
+    "icon_url": "assets/icons/video-doorbells.svg"
+  },
+  "alarm-systems": {
+    "category_name": "Alarm Systems",
+    "category_slug": "alarm-systems",
+    "group": "Security",
+    "sort_order": 4,
+    "page_title": "Alarm Systems",
+    "page_description": "Browse smart alarm systems for intrusion alerts, security automation, and home protection.",
+    "browse_hint": "Best for users who want a connected security setup with alerts.",
+    "related_labels": ["alarm-system", "alarm", "security-equipment"],
+    "icon_url": "assets/icons/alarm-systems.svg"
+  },
+  "sensors": {
+    "category_name": "Sensors",
+    "category_slug": "sensors",
+    "group": "Security",
+    "sort_order": 5,
+    "page_title": "Smart Sensors",
+    "page_description": "Browse smart sensors for motion, contact, smoke, leak, and safety detection.",
+    "browse_hint": "Helpful for automation triggers and security monitoring.",
+    "related_labels": ["sensor", "motion-sensor", "contact-sensor", "smoke-sensor", "water-leak-sensor"],
+    "icon_url": "assets/icons/sensors.svg"
+  },
+  "smart-switches": {
+    "category_name": "Smart Switches",
+    "category_slug": "smart-switches",
+    "group": "Automation",
+    "sort_order": 6,
+    "page_title": "Smart Switches",
+    "page_description": "Browse smart switches for lights, scenes, routines, and home automation.",
+    "browse_hint": "Useful for wall control, scheduled actions, and scene automation.",
+    "related_labels": ["smart-switch", "switch", "relay", "automation-device"],
+    "icon_url": "assets/icons/smart-switches.svg"
+  },
+  "smart-dimmers": {
+    "category_name": "Smart Dimmers",
+    "category_slug": "smart-dimmers",
+    "group": "Automation",
+    "sort_order": 7,
+    "page_title": "Smart Dimmers",
+    "page_description": "Browse smart dimmers for lighting intensity control and scene-based automation.",
+    "browse_hint": "Useful when you want mood lighting and variable brightness.",
+    "related_labels": ["smart-dimmer", "lighting", "smart-light"],
+    "icon_url": "assets/icons/smart-dimmers.svg"
+  },
+  "smart-plugs": {
+    "category_name": "Smart Plugs",
+    "category_slug": "smart-plugs",
+    "group": "Automation",
+    "sort_order": 8,
+    "page_title": "Smart Plugs",
+    "page_description": "Browse smart plugs for appliance control, scheduling, and energy monitoring.",
+    "browse_hint": "Useful for lamps, fans, chargers, and small appliances.",
+    "related_labels": ["smart-plug", "plug", "energy-monitor"],
+    "icon_url": "assets/icons/smart-plugs.svg"
+  },
+  "smart-lighting": {
+    "category_name": "Smart Lighting",
+    "category_slug": "smart-lighting",
+    "group": "Lighting",
+    "sort_order": 9,
+    "page_title": "Smart Lighting",
+    "page_description": "Browse smart lighting products for rooms, ambience, schedules, and automation.",
+    "browse_hint": "Great for scenes, mood control, and connected lighting setups.",
+    "related_labels": ["smart-light", "smart-bulb", "lighting"],
+    "icon_url": "assets/icons/smart-lighting.svg"
+  },
+  "smart-bulbs": {
+    "category_name": "Smart Bulbs",
+    "category_slug": "smart-bulbs",
+    "group": "Lighting",
+    "sort_order": 10,
+    "page_title": "Smart Bulbs",
+    "page_description": "Browse smart bulbs with color control, brightness control, and ecosystem support.",
+    "browse_hint": "Useful for rooms, scenes, and quick lighting upgrades.",
+    "related_labels": ["smart-bulb", "lighting", "smart-light"],
+    "icon_url": "assets/icons/smart-bulbs.svg"
+  },
+  "smart-hubs": {
+    "category_name": "Smart Hubs",
+    "category_slug": "smart-hubs",
+    "group": "Core",
+    "sort_order": 11,
+    "page_title": "Smart Hubs",
+    "page_description": "Browse smart hubs and bridges that connect and coordinate smart home devices.",
+    "browse_hint": "Useful when your ecosystem needs a central controller or protocol bridge.",
+    "related_labels": ["smart-hub", "hub", "bridge", "controller"],
+    "icon_url": "assets/icons/smart-hubs.svg"
+  },
+  "smart-controllers": {
+    "category_name": "Smart Controllers",
+    "category_slug": "smart-controllers",
+    "group": "Core",
+    "sort_order": 12,
+    "page_title": "Smart Controllers",
+    "page_description": "Browse controllers for scenes, remote actions, automation, and device management.",
+    "browse_hint": "Useful for advanced automation and simple daily control.",
+    "related_labels": ["smart-controller", "controller", "automation-device"],
+    "icon_url": "assets/icons/smart-controllers.svg"
+  },
+  "smart-thermostats": {
+    "category_name": "Smart Thermostats",
+    "category_slug": "smart-thermostats",
+    "group": "Climate",
+    "sort_order": 13,
+    "page_title": "Smart Thermostats",
+    "page_description": "Browse smart thermostats for comfort, scheduling, climate control, and energy savings.",
+    "browse_hint": "Useful for homeowners who want smarter heating and cooling control.",
+    "related_labels": ["smart-thermostat", "climate", "energy-monitor"],
+    "icon_url": "assets/icons/smart-thermostats.svg"
+  },
+  "access-control": {
+    "category_name": "Access Control",
+    "category_slug": "access-control",
+    "group": "Security",
+    "sort_order": 14,
+    "page_title": "Access Control",
+    "page_description": "Browse access control products for secure entry, unlock methods, and user management.",
+    "browse_hint": "Useful for doors, gates, apartments, and shared access setups.",
+    "related_labels": ["access-control", "entry-device", "smart-lock"],
+    "icon_url": "assets/icons/access-control.svg"
+  },
+  "voice-assistants": {
+    "category_name": "Voice Assistants",
+    "category_slug": "voice-assistants",
+    "group": "Core",
+    "sort_order": 15,
+    "page_title": "Voice Assistant Compatible Devices",
+    "page_description": "Browse devices that work with Alexa, Google Home, and other voice assistant ecosystems.",
+    "browse_hint": "Useful when voice control and ecosystem compatibility matter.",
+    "related_labels": ["voice-assistant", "smart-home", "controller"],
+    "icon_url": "assets/icons/voice-assistants.svg"
+  },
+  "energy-monitoring": {
+    "category_name": "Energy Monitoring",
+    "category_slug": "energy-monitoring",
+    "group": "Utilities",
+    "sort_order": 16,
+    "page_title": "Energy Monitoring",
+    "page_description": "Browse smart devices that measure and help reduce energy usage.",
+    "browse_hint": "Useful for tracking loads, appliance consumption, and efficiency.",
+    "related_labels": ["energy-monitor", "smart-plug", "climate"],
+    "icon_url": "assets/icons/energy-monitoring.svg"
+  },
+  "outdoor-security": {
+    "category_name": "Outdoor Security",
+    "category_slug": "outdoor-security",
+    "group": "Security",
+    "sort_order": 17,
+    "page_title": "Outdoor Security",
+    "page_description": "Browse outdoor-ready smart security products for perimeter protection and external monitoring.",
+    "browse_hint": "Useful for gardens, entrances, driveways, and outdoor monitoring.",
+    "related_labels": ["outdoor-security", "security-camera", "video-doorbell"],
+    "icon_url": "assets/icons/outdoor-security.svg"
+  },
+  "indoor-security": {
+    "category_name": "Indoor Security",
+    "category_slug": "indoor-security",
+    "group": "Security",
+    "sort_order": 18,
+    "page_title": "Indoor Security",
+    "page_description": "Browse indoor smart security products for rooms, hallways, and internal monitoring.",
+    "browse_hint": "Useful for family safety, pets, and room surveillance.",
+    "related_labels": ["indoor-security", "security-camera", "motion-sensor"],
+    "icon_url": "assets/icons/indoor-security.svg"
+  },
+  "automation-devices": {
+    "category_name": "Automation Devices",
+    "category_slug": "automation-devices",
+    "group": "Automation",
+    "sort_order": 19,
+    "page_title": "Automation Devices",
+    "page_description": "Browse devices designed to automate lights, appliances, and home routines.",
+    "browse_hint": "Useful for users who want smarter daily routines and connected control.",
+    "related_labels": ["automation-device", "relay", "controller", "smart-plug"],
+    "icon_url": "assets/icons/automation-devices.svg"
+  },
+  "starter-kits": {
+    "category_name": "Starter Kits",
+    "category_slug": "starter-kits",
+    "group": "Bundles",
+    "sort_order": 20,
+    "page_title": "Starter Kits",
+    "page_description": "Browse smart home starter kits for users who want an easy first setup.",
+    "browse_hint": "Useful for beginners who want a ready-to-use bundle.",
+    "related_labels": ["smart-home", "automation-device", "security-equipment"],
+    "icon_url": "assets/icons/starter-kits.svg"
+  }
+}
