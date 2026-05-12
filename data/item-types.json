@@ -1,0 +1,146 @@
+{
+  "order": [
+    "smart-lock",
+    "security-camera",
+    "video-doorbell",
+    "alarm-system",
+    "motion-sensor",
+    "contact-sensor",
+    "smoke-sensor",
+    "water-leak-sensor",
+    "smart-switch",
+    "smart-dimmer",
+    "smart-plug",
+    "smart-light",
+    "smart-bulb",
+    "smart-hub",
+    "smart-controller",
+    "smart-thermostat",
+    "access-control",
+    "voice-assistant",
+    "energy-monitor",
+    "automation-device"
+  ],
+  "types": {
+    "smart-lock": {
+      "title": "Smart Lock",
+      "group": "Security",
+      "page_title": "Smart Locks",
+      "page_description": "Browse smart locks with secure access methods, automation support, and compatibility details."
+    },
+    "security-camera": {
+      "title": "Security Camera",
+      "group": "Security",
+      "page_title": "Security Cameras",
+      "page_description": "Browse indoor and outdoor security cameras with video quality, alerts, and smart detection features."
+    },
+    "video-doorbell": {
+      "title": "Video Doorbell",
+      "group": "Security",
+      "page_title": "Video Doorbells",
+      "page_description": "Browse smart video doorbells for visitor alerts, entry monitoring, and package awareness."
+    },
+    "alarm-system": {
+      "title": "Alarm System",
+      "group": "Security",
+      "page_title": "Alarm Systems",
+      "page_description": "Browse smart alarm systems for intrusion alerts, security automation, and home protection."
+    },
+    "motion-sensor": {
+      "title": "Motion Sensor",
+      "group": "Sensors",
+      "page_title": "Motion Sensors",
+      "page_description": "Browse motion sensors for automation, alerts, and home security."
+    },
+    "contact-sensor": {
+      "title": "Contact Sensor",
+      "group": "Sensors",
+      "page_title": "Contact Sensors",
+      "page_description": "Browse door and window contact sensors for security automation."
+    },
+    "smoke-sensor": {
+      "title": "Smoke Sensor",
+      "group": "Sensors",
+      "page_title": "Smoke Sensors",
+      "page_description": "Browse smart smoke detection products for safety and alerts."
+    },
+    "water-leak-sensor": {
+      "title": "Water Leak Sensor",
+      "group": "Sensors",
+      "page_title": "Leak Sensors",
+      "page_description": "Browse smart water leak sensors for early detection and alerts."
+    },
+    "smart-switch": {
+      "title": "Smart Switch",
+      "group": "Automation",
+      "page_title": "Smart Switches",
+      "page_description": "Browse smart switches for lights, scenes, routines, and home automation."
+    },
+    "smart-dimmer": {
+      "title": "Smart Dimmer",
+      "group": "Automation",
+      "page_title": "Smart Dimmers",
+      "page_description": "Browse smart dimmers for lighting intensity control and scene-based automation."
+    },
+    "smart-plug": {
+      "title": "Smart Plug",
+      "group": "Automation",
+      "page_title": "Smart Plugs",
+      "page_description": "Browse smart plugs for appliance control, scheduling, and energy monitoring."
+    },
+    "smart-light": {
+      "title": "Smart Light",
+      "group": "Lighting",
+      "page_title": "Smart Lights",
+      "page_description": "Browse smart lighting products for rooms, scenes, schedules, and automation."
+    },
+    "smart-bulb": {
+      "title": "Smart Bulb",
+      "group": "Lighting",
+      "page_title": "Smart Bulbs",
+      "page_description": "Browse smart bulbs with color control, brightness control, and ecosystem support."
+    },
+    "smart-hub": {
+      "title": "Smart Hub",
+      "group": "Core",
+      "page_title": "Smart Hubs",
+      "page_description": "Browse smart hubs and bridges that connect and coordinate smart home devices."
+    },
+    "smart-controller": {
+      "title": "Smart Controller",
+      "group": "Core",
+      "page_title": "Smart Controllers",
+      "page_description": "Browse controllers for scenes, remote actions, automation, and device management."
+    },
+    "smart-thermostat": {
+      "title": "Smart Thermostat",
+      "group": "Climate",
+      "page_title": "Smart Thermostats",
+      "page_description": "Browse smart thermostats for comfort, scheduling, climate control, and energy savings."
+    },
+    "access-control": {
+      "title": "Access Control",
+      "group": "Security",
+      "page_title": "Access Control",
+      "page_description": "Browse products for access control, entry management, and secure unlock methods."
+    },
+    "voice-assistant": {
+      "title": "Voice Assistant",
+      "group": "Core",
+      "page_title": "Voice Assistants",
+      "page_description": "Browse voice assistant compatible smart home devices and ecosystems."
+    },
+    "energy-monitor": {
+      "title": "Energy Monitor",
+      "group": "Utilities",
+      "page_title": "Energy Monitoring",
+      "page_description": "Browse devices with energy usage tracking and power monitoring features."
+    },
+    "automation-device": {
+      "title": "Automation Device",
+      "group": "Automation",
+      "page_title": "Automation Devices",
+      "page_description": "Browse devices designed for smart home automation and routines."
+    }
+  }
+}
