@@ -1,0 +1,86 @@
+{
+  "aqara": {
+    "brand_name": "Aqara",
+    "brand_slug": "aqara",
+    "brand_logo_url": "assets/brands/aqara.svg",
+    "brand_page_title": "Aqara Smart Home Products",
+    "brand_page_description": "Browse Aqara smart home automation and security products, sensors, hubs, cameras, and accessories."
+  },
+  "ring": {
+    "brand_name": "Ring",
+    "brand_slug": "ring",
+    "brand_logo_url": "assets/brands/ring.svg",
+    "brand_page_title": "Ring Smart Security Products",
+    "brand_page_description": "Browse Ring doorbells, cameras, alarms, and home security products."
+  },
+  "yale": {
+    "brand_name": "Yale",
+    "brand_slug": "yale",
+    "brand_logo_url": "assets/brands/yale.svg",
+    "brand_page_title": "Yale Smart Locks",
+    "brand_page_description": "Browse Yale smart locks and access control products for secure home entry."
+  },
+  "ecobee": {
+    "brand_name": "ecobee",
+    "brand_slug": "ecobee",
+    "brand_logo_url": "assets/brands/ecobee.svg",
+    "brand_page_title": "ecobee Smart Thermostats",
+    "brand_page_description": "Browse ecobee thermostats and climate control products for smarter comfort and energy savings."
+  },
+  "shelly": {
+    "brand_name": "Shelly",
+    "brand_slug": "shelly",
+    "brand_logo_url": "assets/brands/shelly.svg",
+    "brand_page_title": "Shelly Smart Automation Devices",
+    "brand_page_description": "Browse Shelly smart switches, relays, plugs, and energy monitoring devices."
+  },
+  "tp-link": {
+    "brand_name": "TP-Link",
+    "brand_slug": "tp-link",
+    "brand_logo_url": "assets/brands/tp-link.svg",
+    "brand_page_title": "TP-Link Smart Home Products",
+    "brand_page_description": "Browse TP-Link smart cameras, plugs, bulbs, switches, and home automation products."
+  },
+  "sonoff": {
+    "brand_name": "Sonoff",
+    "brand_slug": "sonoff",
+    "brand_logo_url": "assets/brands/sonoff.svg",
+    "brand_page_title": "Sonoff Smart Switches and Relays",
+    "brand_page_description": "Browse Sonoff smart switches, relays, sensors, and home automation products."
+  },
+  "philips-hue": {
+    "brand_name": "Philips Hue",
+    "brand_slug": "philips-hue",
+    "brand_logo_url": "assets/brands/philips-hue.svg",
+    "brand_page_title": "Philips Hue Smart Lighting",
+    "brand_page_description": "Browse Philips Hue bulbs, lights, accessories, and smart lighting products."
+  },
+  "arlo": {
+    "brand_name": "Arlo",
+    "brand_slug": "arlo",
+    "brand_logo_url": "assets/brands/arlo.svg",
+    "brand_page_title": "Arlo Smart Cameras",
+    "brand_page_description": "Browse Arlo indoor and outdoor cameras, doorbells, and smart security products."
+  },
+  "eufy": {
+    "brand_name": "eufy",
+    "brand_slug": "eufy",
+    "brand_logo_url": "assets/brands/eufy.svg",
+    "brand_page_title": "eufy Smart Home Security",
+    "brand_page_description": "Browse eufy cameras, doorbells, locks, vacuums, and home security products."
+  },
+  "nest": {
+    "brand_name": "Nest",
+    "brand_slug": "nest",
+    "brand_logo_url": "assets/brands/nest.svg",
+    "brand_page_title": "Nest Smart Home Devices",
+    "brand_page_description": "Browse Nest thermostats, cameras, doorbells, and connected home devices."
+  },
+  "amazon": {
+    "brand_name": "Amazon",
+    "brand_slug": "amazon",
+    "brand_logo_url": "assets/brands/amazon.svg",
+    "brand_page_title": "Amazon Smart Home Devices",
+    "brand_page_description": "Browse Amazon smart home devices, Echo products, and Alexa-compatible hardware."
+  }
+}
