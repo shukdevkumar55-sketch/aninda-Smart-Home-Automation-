@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Discover Smart Home Security",
+    "subtitle": "Browse cameras, doorbells, locks, alarms, and sensors with a premium shopping experience built for quick decisions.",
+    "image": "assets/banners/security-hero.jpg",
+    "ctaText": "Explore Security",
+    "ctaLink": "category.html?type=security"
+  },
+  {
+    "title": "Smart Automation Made Simple",
+    "subtitle": "Find switches, relays, plugs, hubs, and controllers that make home automation easy to understand and compare.",
+    "image": "assets/banners/automation-hero.jpg",
+    "ctaText": "Explore Automation",
+    "ctaLink": "category.html?type=automation"
+  },
+  {
+    "title": "Compare Products by Use Case",
+    "subtitle": "Filter by brand, category, compatibility, budget, and smart-home ecosystem to choose the right product faster.",
+    "image": "assets/banners/compare-hero.jpg",
+    "ctaText": "Start Comparing",
+    "ctaLink": "compare.html"
+  },
+  {
+    "title": "Choose the Best Smart Lock",
+    "subtitle": "See access methods, installation type, security features, and compatibility details in one organized place.",
+    "image": "assets/banners/lock-hero.jpg",
+    "ctaText": "Browse Locks",
+    "ctaLink": "category.html?label=smart-lock"
+  },
+  {
+    "title": "Energy Monitoring and Control",
+    "subtitle": "Discover plugs, relays, switches, and thermostats that help users save power and automate usage efficiently.",
+    "image": "assets/banners/energy-hero.jpg",
+    "ctaText": "Explore Energy",
+    "ctaLink": "category.html?type=energy"
+  },
+  {
+    "title": "Find Products by Brand",
+    "subtitle": "View all items from trusted smart-home brands in a clean premium layout with load-more browsing.",
+    "image": "assets/banners/brand-hero.jpg",
+    "ctaText": "Browse Brands",
+    "ctaLink": "category.html"
+  }
+]
