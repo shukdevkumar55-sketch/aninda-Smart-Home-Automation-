@@ -1,0 +1,272 @@
+{
+  "order": [
+    "smart-lock",
+    "security-equipment",
+    "security-camera",
+    "video-doorbell",
+    "alarm-system",
+    "motion-sensor",
+    "contact-sensor",
+    "smoke-sensor",
+    "water-leak-sensor",
+    "smart-switch",
+    "smart-dimmer",
+    "smart-plug",
+    "smart-light",
+    "smart-bulb",
+    "smart-hub",
+    "smart-controller",
+    "smart-thermostat",
+    "access-control",
+    "voice-assistant",
+    "energy-monitor",
+    "automation-device",
+    "outdoor-security",
+    "indoor-security",
+    "camera",
+    "lock",
+    "switch",
+    "plug",
+    "sensor",
+    "lighting",
+    "climate",
+    "hub",
+    "controller",
+    "doorbell",
+    "relay",
+    "bridge",
+    "alarm",
+    "entry-device",
+    "smart-home"
+  ],
+  "labels": {
+    "smart-lock": {
+      "title": "Smart Lock",
+      "order": 1,
+      "page_title": "Smart Locks",
+      "page_description": "Browse smart locks with security, access methods, and compatibility details."
+    },
+    "security-equipment": {
+      "title": "Security Equipment",
+      "order": 2,
+      "page_title": "Security Equipment",
+      "page_description": "Browse smart security products for home protection and monitoring."
+    },
+    "security-camera": {
+      "title": "Security Camera",
+      "order": 3,
+      "page_title": "Security Cameras",
+      "page_description": "Browse indoor and outdoor security cameras with smart features."
+    },
+    "video-doorbell": {
+      "title": "Video Doorbell",
+      "order": 4,
+      "page_title": "Video Doorbells",
+      "page_description": "Browse smart video doorbells for entry monitoring and visitor alerts."
+    },
+    "alarm-system": {
+      "title": "Alarm System",
+      "order": 5,
+      "page_title": "Alarm Systems",
+      "page_description": "Browse smart alarm systems for home security and intrusion alerts."
+    },
+    "motion-sensor": {
+      "title": "Motion Sensor",
+      "order": 6,
+      "page_title": "Motion Sensors",
+      "page_description": "Browse motion sensors for automation, alerts, and home security."
+    },
+    "contact-sensor": {
+      "title": "Contact Sensor",
+      "order": 7,
+      "page_title": "Contact Sensors",
+      "page_description": "Browse door and window contact sensors for security automation."
+    },
+    "smoke-sensor": {
+      "title": "Smoke Sensor",
+      "order": 8,
+      "page_title": "Smoke Sensors",
+      "page_description": "Browse smart smoke detection products for safety and alerts."
+    },
+    "water-leak-sensor": {
+      "title": "Water Leak Sensor",
+      "order": 9,
+      "page_title": "Leak Sensors",
+      "page_description": "Browse smart water leak sensors for early detection and alerts."
+    },
+    "smart-switch": {
+      "title": "Smart Switch",
+      "order": 10,
+      "page_title": "Smart Switches",
+      "page_description": "Browse smart switches for lights, scenes, and automation control."
+    },
+    "smart-dimmer": {
+      "title": "Smart Dimmer",
+      "order": 11,
+      "page_title": "Smart Dimmers",
+      "page_description": "Browse smart dimmers for lighting control and mood automation."
+    },
+    "smart-plug": {
+      "title": "Smart Plug",
+      "order": 12,
+      "page_title": "Smart Plugs",
+      "page_description": "Browse smart plugs for appliance automation and energy monitoring."
+    },
+    "smart-light": {
+      "title": "Smart Light",
+      "order": 13,
+      "page_title": "Smart Lights",
+      "page_description": "Browse smart lighting products for rooms, scenes, and automation."
+    },
+    "smart-bulb": {
+      "title": "Smart Bulb",
+      "order": 14,
+      "page_title": "Smart Bulbs",
+      "page_description": "Browse smart bulbs with color control, schedules, and ecosystem support."
+    },
+    "smart-hub": {
+      "title": "Smart Hub",
+      "order": 15,
+      "page_title": "Smart Hubs",
+      "page_description": "Browse smart hubs and bridges for connected home ecosystems."
+    },
+    "smart-controller": {
+      "title": "Smart Controller",
+      "order": 16,
+      "page_title": "Smart Controllers",
+      "page_description": "Browse smart controllers for scenes, automation, and device management."
+    },
+    "smart-thermostat": {
+      "title": "Smart Thermostat",
+      "order": 17,
+      "page_title": "Smart Thermostats",
+      "page_description": "Browse smart thermostats for comfort, climate control, and energy savings."
+    },
+    "access-control": {
+      "title": "Access Control",
+      "order": 18,
+      "page_title": "Access Control",
+      "page_description": "Browse products for access control, entry management, and secure unlock methods."
+    },
+    "voice-assistant": {
+      "title": "Voice Assistant",
+      "order": 19,
+      "page_title": "Voice Assistants",
+      "page_description": "Browse voice assistant compatible smart home devices and ecosystems."
+    },
+    "energy-monitor": {
+      "title": "Energy Monitor",
+      "order": 20,
+      "page_title": "Energy Monitoring",
+      "page_description": "Browse devices with energy usage tracking and power monitoring features."
+    },
+    "automation-device": {
+      "title": "Automation Device",
+      "order": 21,
+      "page_title": "Automation Devices",
+      "page_description": "Browse devices designed for smart home automation and routines."
+    },
+    "outdoor-security": {
+      "title": "Outdoor Security",
+      "order": 22,
+      "page_title": "Outdoor Security",
+      "page_description": "Browse outdoor-ready smart security products for perimeter protection."
+    },
+    "indoor-security": {
+      "title": "Indoor Security",
+      "order": 23,
+      "page_title": "Indoor Security",
+      "page_description": "Browse indoor smart security products for home monitoring."
+    },
+    "camera": {
+      "title": "Camera",
+      "order": 24,
+      "page_title": "Cameras",
+      "page_description": "Browse smart cameras, security cameras, and monitoring devices."
+    },
+    "lock": {
+      "title": "Lock",
+      "order": 25,
+      "page_title": "Locks",
+      "page_description": "Browse smart locks and secure entry products."
+    },
+    "switch": {
+      "title": "Switch",
+      "order": 26,
+      "page_title": "Switches",
+      "page_description": "Browse smart switches and wall control devices."
+    },
+    "plug": {
+      "title": "Plug",
+      "order": 27,
+      "page_title": "Plugs",
+      "page_description": "Browse smart plugs and plug-in automation devices."
+    },
+    "sensor": {
+      "title": "Sensor",
+      "order": 28,
+      "page_title": "Sensors",
+      "page_description": "Browse smart sensors for motion, contact, leak, and safety detection."
+    },
+    "lighting": {
+      "title": "Lighting",
+      "order": 29,
+      "page_title": "Lighting",
+      "page_description": "Browse smart lighting products for rooms and scenes."
+    },
+    "climate": {
+      "title": "Climate",
+      "order": 30,
+      "page_title": "Climate Control",
+      "page_description": "Browse smart climate and thermostat products."
+    },
+    "hub": {
+      "title": "Hub",
+      "order": 31,
+      "page_title": "Hubs",
+      "page_description": "Browse smart hubs, bridges, and connected controllers."
+    },
+    "controller": {
+      "title": "Controller",
+      "order": 32,
+      "page_title": "Controllers",
+      "page_description": "Browse controllers for automation, scenes, and device coordination."
+    },
+    "doorbell": {
+      "title": "Doorbell",
+      "order": 33,
+      "page_title": "Doorbells",
+      "page_description": "Browse smart doorbells for entry alerts and visitor monitoring."
+    },
+    "relay": {
+      "title": "Relay",
+      "order": 34,
+      "page_title": "Relays",
+      "page_description": "Browse smart relays for hidden automation and switching use cases."
+    },
+    "bridge": {
+      "title": "Bridge",
+      "order": 35,
+      "page_title": "Bridges",
+      "page_description": "Browse smart bridges for connecting devices and ecosystems."
+    },
+    "alarm": {
+      "title": "Alarm",
+      "order": 36,
+      "page_title": "Alarms",
+      "page_description": "Browse alarm products for smart home security and alerts."
+    },
+    "entry-device": {
+      "title": "Entry Device",
+      "order": 37,
+      "page_title": "Entry Devices",
+      "page_description": "Browse smart entry devices for doors, gates, and access control."
+    },
+    "smart-home": {
+      "title": "Smart Home",
+      "order": 38,
+      "page_title": "Smart Home",
+      "page_description": "Browse smart home products across automation and security categories."
+    }
+  }
+}
